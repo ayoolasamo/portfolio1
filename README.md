@@ -25,7 +25,7 @@
 
 ![screenshot](https://github.com/ayoolasamo/portfolio1/blob/master/img.PNG)
 
-My portfolio was created from scratch using react and bootstrap. It displays information about me and projects I have worked on.
+My portfolio was created from scratch using react and Tailwind. It displays information about me and projects I have worked on.
 
 
 ### Built With
@@ -33,7 +33,7 @@ My portfolio was created from scratch using react and bootstrap. It displays inf
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
+[Tailwind](https://tailwindcss.com/)
 
 
 ## Contact
