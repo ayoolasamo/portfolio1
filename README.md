@@ -33,7 +33,7 @@ My portfolio was created from scratch using react and Tailwind. It displays info
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-[Tailwind](https://tailwindcss.com/)
+- [Tailwind](https://tailwindcss.com/)
 
 
 ## Contact
