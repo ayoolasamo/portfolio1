@@ -1,10 +1,10 @@
 import "./App.css";
-import Header from "./components/header";
-import Home from "./components/home";
-import Projects from "./components/projects";
-import About from "./components/About";
-import Contact from "./components/contact";
-import Footer from "./components/footer";
+import {Header }from "./components/Header/header";
+import {Home} from "./components/Home/home";
+import {Projects} from "./components/Projects/projects";
+import {About} from "./components/About/About";
+import {Contact} from "./components/Contact/contact";
+import {Footer} from "./components/Footer/footer";
 
 function App() {
   return (

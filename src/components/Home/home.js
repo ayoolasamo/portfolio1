@@ -1,6 +1,6 @@
 import React from "react";
 
-const Home = () => {
+ export const Home = () => {
   return (
     <div className=" mx-5 lg:mx-16 grid sm:grid-cols-2 mb-20 ">
       <div className=" max-sm:order-1 my-20  w-9/12 lg:w-9/12 text-secondary2 dark:text-secondary">
@@ -10,7 +10,7 @@ const Home = () => {
           <br />
         </span>
         <p className="text-lg text-justify my-3 mb-6">A frontend web developer who is mindful about growth and development.</p>
-        <div className="grid w-3/4 grid-cols-2 gap-x-6 gap-y-4 text-center ">
+        <div className="grid md:w-3/4  grid-cols-2 gap-x-6 gap-y-4 text-center ">
           <span className="bg-primary2 p-2 rounded-lg text-l font-medium text-secondary2 ">Javascript</span>
           <span className="bg-primary p-2 rounded-lg text-l font-medium text-secondary ">React.js</span>
           <span className="bg-secondary2 p-2 rounded-lg text-l font-medium text-secondary">Tailwind</span>
@@ -31,4 +31,3 @@ const Home = () => {
   );
 };
 
-export default Home;

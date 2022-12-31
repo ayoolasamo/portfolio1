@@ -1,6 +1,6 @@
 import React from "react";
 
-const About = () => {
+export const About = () => {
   return (
     <div id="about" className=" lg:mx-16 mx-5 my-40 text-justify">
       <p className="text-secondary2 dark:text-secondary text-3xl font-semibold "> Get To know me !</p>
@@ -26,5 +26,3 @@ const About = () => {
     </div>
   );
 };
-
-export default About;

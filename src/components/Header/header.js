@@ -1,8 +1,8 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import { Navbar} from "flowbite-react";
+import { Navbar } from "flowbite-react";
 
-const Header = () => {
+export const Header = () => {
   const [theme, setTheme] = useState("dark");
   const toggleTheme = () => {
     if (theme === "light") {
@@ -63,5 +63,3 @@ const Header = () => {
     </div>
   );
 };
-
-export default Header;

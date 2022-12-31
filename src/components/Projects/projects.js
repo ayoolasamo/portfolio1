@@ -1,7 +1,7 @@
 import React from "react";
-import { projectData } from "../projectData";
+import { projectData } from "../../projectData";
 
-const Projects = () => {
+export const Projects = () => {
   return (
     <div id="projects ">
       <div className=" lg:mx-16 mx-5 mb-20 md:mb-80 ">
@@ -43,4 +43,3 @@ const Projects = () => {
   );
 };
 
-export default Projects;
